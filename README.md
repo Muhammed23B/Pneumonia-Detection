@@ -32,12 +32,34 @@ Pneumonia is a potentially life-threatening lung infection. This project uses a 
 📂 Dataset
 Name: Chest X-Ray Images (Pneumonia)
 
-Source: Kaggle - Paul Timothy Mooney
+Source: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 Classes:
 
 NORMAL
 
 PNEUMONIA
+
+
+
+
+🔧 Project Pipeline
+Download dataset using Kaggle API (kaggle.json)
+
+Preprocess images:
+
+Resize to 150x150
+
+Normalize pixel values (rescale to [0, 1])
+
+Augment training data (zoom, shear, flip)
+
+Build CNN model using Keras Sequential API
+
+Train model for 10 epochs with validation tracking
+
+Evaluate model on test set
+
+Visualize performance (accuracy/loss curves)
 
 
