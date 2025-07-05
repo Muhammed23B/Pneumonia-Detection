@@ -1,2 +1,24 @@
 # Pneumonia-Detection
-https://i0.wp.com/amanxai.com/wp-content/uploads/2020/11/pneumonia.png?w=444&ssl=1
+🩺 Pneumonia Detection Using Deep Learning (Chest X-Ray Classification)
+A deep learning project to classify chest X-ray images as Pneumonia or Normal using Convolutional Neural Networks (CNNs) in TensorFlow/Keras.
+
+📌 Table of Contents
+Overview
+
+Dataset
+
+Project Pipeline
+
+Model Architecture
+
+Results
+
+How to Run
+
+Future Improvements
+
+Dependencies
+
+References
+
+
