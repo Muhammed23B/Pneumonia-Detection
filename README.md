@@ -3,22 +3,41 @@
 A deep learning project to classify chest X-ray images as Pneumonia or Normal using Convolutional Neural Networks (CNNs) in TensorFlow/Keras.
 
 📌 Table of Contents
-Overview
 
-Dataset
+1.Overview
 
-Project Pipeline
+2.Dataset
 
-Model Architecture
+3.Project Pipeline
 
-Results
+4.Model Architecture
 
-How to Run
+5.Results
 
-Future Improvements
+6.How to Run
 
-Dependencies
+7.Future Improvements
 
-References
+8.Dependencies
+
+9.References
+
+
+
+
+
+✅ Overview
+Pneumonia is a potentially life-threatening lung infection. This project uses a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images. The goal is to build a simple yet effective binary image classifier that distinguishes between Normal and Pneumonia-infected lungs.
+
+📂 Dataset
+Name: Chest X-Ray Images (Pneumonia)
+
+Source: Kaggle - Paul Timothy Mooney
+
+Classes:
+
+NORMAL
+
+PNEUMONIA
 
 
